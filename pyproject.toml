@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "produccion-software-emi305"
 version = "0.1.0"
-description = "Material desplegable del curso Produccion de Software EMI305"
+description = "Material del curso Produccion de Software EMI305"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "Apache-2.0"}
@@ -33,3 +33,4 @@ py-modules = []
 
 [tool.nbdev]
 custom_sidebar = true
+title = "Produccion de Software EMI305"
