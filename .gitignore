@@ -2,6 +2,7 @@ _docs/
 _proc/
 .analysis/
 .welcome_flag
+data/repos/
 
 *.bak
 .last_checked
